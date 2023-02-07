@@ -1,0 +1,3 @@
+Using Machine Learning and Data Science to predict the remaining life span of a person. According to Our World in Data, "life expectancy is based on an estimate of the average age that members of a particular population group will be when they die." Life expectancy depends on several factors such as birth year, gender, race and ethnicity, and lifestyle choices. In this data analysis, we are going to analyze and explore other hidden factors that other have not look at.
+
+The dataset is from Global Health Observatory (GHO) data repository under World Health Organization (WHO) keeps track of the health status as well as many other related factors for all countries.
